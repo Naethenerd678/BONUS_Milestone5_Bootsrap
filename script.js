@@ -97,3 +97,4 @@ $("#gridBtn").click(() => {
 $("#listBtn").click(() => {
   $("#results").removeClass("grid-view").addClass("list-view");
 });
+});
